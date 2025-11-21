@@ -1,0 +1,5 @@
+{
+  "name": "RDD Explorer: A Visual Guide",
+  "description": "A 3blue1brown-inspired interactive visualization of Regression Discontinuity Design (RDD) in Econometrics. Experiment with cutoffs, treatment effects, and bandwidths while receiving AI-generated insights.",
+  "requestFramePermissions": []
+}
